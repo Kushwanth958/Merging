@@ -1,5 +1,9 @@
 public class Calculator{
-  public String Adding (int a , int b){
+  public int Adding (int a , int b){
     return a+b;
+  }
+  public int product(int a, int b){
+    return a * b;
+    
   }
 }
